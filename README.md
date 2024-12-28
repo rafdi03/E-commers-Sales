@@ -11,6 +11,7 @@ This project aims to analyze E-Commerce sales data to identify customers who are
     - Encoded categorical features using Label Encoding.
     - Standardized numerical features for consistency.
     - Removed irrelevant features (e.g., datetime columns).
+    - Dataset URL: https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
 
 2. **Handling Class Imbalance**
     - Applied **SMOTE (Synthetic Minority Over-sampling Technique)** to balance the dataset by increasing samples of the minority class.
