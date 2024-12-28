@@ -1,6 +1,3 @@
-# E-commers-Sales
-Analyze Amazon Sale Report data 
-
 # E-Commerce Sales Analysis
 
 ## **Overview**
