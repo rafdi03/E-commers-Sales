@@ -104,24 +104,24 @@ The following libraries were used in this project:
 ---
 
 
-Python version: 3.10.12
-LabelEncoder (from sklearn): 1.6.0
-LogisticRegression (from sklearn): 1.6.0
-RandomForestClassifier (from sklearn): 1.6.0
-SMOTE (from imblearn): 0.12.4
-SimpleImputer (from sklearn): 1.6.0
-XGBClassifier (from xgboost): 2.1.3
-accuracy_score (from sklearn): 1.6.0
-confusion_matrix (from sklearn): 1.6.0
-files (from google): Built-in Google Colab module
-google (colab): Built-in Google Colab module
-imblearn: 0.12.4
-matplotlib: 3.8.0
-numpy: 1.26.4
-os: Built-in Python module
-pandas: 2.2.2
-seaborn: 0.13.2
-sklearn: 1.6.0
-train_test_split (from sklearn): 1.6.0
-xgboost: 2.1.3
-zipfile: Built-in Python module
+- Python version: 3.10.12
+- LabelEncoder (from sklearn): 1.6.0
+- LogisticRegression (from sklearn): 1.6.0
+- RandomForestClassifier (from sklearn): 1.6.0
+- SMOTE (from imblearn): 0.12.4
+- SimpleImputer (from sklearn): 1.6.0
+- XGBClassifier (from xgboost): 2.1.3
+- accuracy_score (from sklearn): 1.6.0
+- confusion_matrix (from sklearn): 1.6.0
+- files (from google): Built-in Google Colab module
+- google (colab): Built-in Google Colab module
+- imblearn: 0.12.4
+- matplotlib: 3.8.0
+- numpy: 1.26.4
+- os: Built-in Python module
+- pandas: 2.2.2
+- seaborn: 0.13.2
+- sklearn: 1.6.0
+- train_test_split (from sklearn): 1.6.0
+- xgboost: 2.1.3
+- zipfile: Built-in Python module
